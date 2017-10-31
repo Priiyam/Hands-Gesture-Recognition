@@ -1,4 +1,4 @@
 # Hands Gesture Recognition
 
-## Using Opencv and Python 2.7
+## Using Opencv 3.3 and Python 2.7
 
